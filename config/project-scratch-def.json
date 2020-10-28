@@ -1,0 +1,21 @@
+{
+  "orgName": "Acme",
+  "edition": "Enterprise",
+  "features": ["Communities", "ServiceCloud", "PersonAccounts"],
+  "adminEmail": "zkilburn@consumeraffairs.com",
+  "username": "zkilburn+test4wn8dyC8@consumeraffairs.com",
+  "settings": {
+      "communitiesSettings": {
+          "enableNetworksEnabled": true
+      },
+      "mobileSettings": {
+          "enableS1EncryptedStoragePref2": true
+      },
+      "omniChannelSettings": {
+          "enableOmniChannel": true
+      },
+      "caseSettings": {
+          "systemUserEmail": "support@acme.com"
+      }
+  }
+}
